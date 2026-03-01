@@ -1,0 +1,5 @@
+# Investor Database (CSV)
+# name,email,firm,type,interests,last_outreach,status,interest_level,notes
+Anna Investor,anna@vcfirm.com,VC,Equity,Tech/Fintech,2026-02-20,Contacted,Medium,Has fund for early-stage
+Ben Capital,ben@angel.co,Angel,Debt/Credit,Fintech,2026-02-14,Pending Low,
+

@@ -1,0 +1,5 @@
+# Opportunity/Deal Catalog (CSV)
+# deal_name,type,sector,amount,target_close_status,description,start_date
+Fintech Growth Fund,Equity,Fintech,1,000,000,Open,"Raising $1M for fintech scaleup",2026-03-01
+Payments SaaS Bridge,Convertible Note,Payments,500,000,Open,"Bridge round for payments SaaS",2026-02-20
+

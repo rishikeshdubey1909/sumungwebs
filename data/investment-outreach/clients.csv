@@ -1,0 +1,5 @@
+# Client List (CSV)
+# name,email,phone,interests,last_outreach,status,notes
+John Doe,john@email.com,123456789,Stocks,2026-02-15,Contacted,"Interested in tech IPOs"
+Jane Smith,jane@email.com,987654321,Mutual Funds,2026-02-01,Pending,
+
